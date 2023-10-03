@@ -12,7 +12,13 @@ const COMMANDS = {
   certifications: 
     "AWS Security Specialty <br>AWS Developer Associate <br>CPTE - Certified penetration testing expert <br>CNSS by ICSI (International Cybersecurity Institute)",
   articles:
-    "<a href='https://ash56sciencefreaks.hashnode.dev/image-to-text-conversion-and-object-detection-using-amazon-rekognition-and-python' class='success link'> https://ash56sciencefreaks.hashnode.dev/image-to-text-conversion-and-object-detection-using-amazon-rekognition-and-python </br> Find my recent article here.</a>",
+  "<a href='https://www.twilio.com/blog/passwordless-authentication-system-django-twilio-verify-sendgrid' class='success link'>(July 2022) - Twilio - Build a Passwordless Authentication System Using Django, Twilio Verify, and SendGrid</a>",
+  "<a href='https://ash56sciencefreaks.hashnode.dev/image-to-text-conversion-and-object-detection-using-amazon-rekognition-and-python' class='success link'>(Sept 2021) - Hashnode - Image to text and object detection</a>",
+  "<a href='https://www.geeksforgeeks.org/amazon-s3-cross-region-replication/' class='success link'>Hashnode - (Feb 2022) - GeeksforGeeks - Amazon S3 cross-region replication</a>",
+  "<a href='https://www.geeksforgeeks.org/amazon-web-services-introduction-to-cloudfront-cdn/' class='success link'>(June 2022) - GeeksforGeeks - AWS - Introduction to Cloudfront CDN</a>",
+  "<a href='https://www.geeksforgeeks.org/bash-script-define-bash-variables-and-its-types/' class='success link'>(Mar 2022) - GeeksforGeeks - Bash script - define bash variables and its types</a>",
+  "<a href='https://www.geeksforgeeks.org/shell-scripting-readonly-command/' class='success link'>(Mar 2022) - GeeksforGeek- Shell script - readonly command</a>",
+  "<a href='https://www.geeksforgeeks.org/how-to-install-python-packages-for-aws-lambda-layers/' class='success link'> (Mar 2022) - GeeksforGeeks - How to install Python packages for AWS Lambda layers</a>",
   contact:
     "You can contact me on any of following links:<br><a href='https://www.linkedin.com/in/ashi-garg-13b86b165/' class='success link'>Linkedin</a>, <a href='mailto:tanishkaashi567@gmail.com' class='success link'>Email</a>, <a href='https://twitter.com/Tanishkaashi/' class='success link'>Twitter</a>",
     projects:
